@@ -1,0 +1,11 @@
+G:\My Drive\Methode Projects\MA-Visual-App\PC App\bin\Debug\PC App.exe.config
+G:\My Drive\Methode Projects\MA-Visual-App\PC App\bin\Debug\PC App.exe
+G:\My Drive\Methode Projects\MA-Visual-App\PC App\bin\Debug\PC App.pdb
+G:\My Drive\Methode Projects\MA-Visual-App\PC App\obj\Debug\PC App.csproj.AssemblyReference.cache
+G:\My Drive\Methode Projects\MA-Visual-App\PC App\obj\Debug\PC App.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\Methode Projects\MA-Visual-App\PC App\obj\Debug\PC_App.Form1.resources
+G:\My Drive\Methode Projects\MA-Visual-App\PC App\obj\Debug\PC_App.Properties.Resources.resources
+G:\My Drive\Methode Projects\MA-Visual-App\PC App\obj\Debug\PC App.csproj.GenerateResource.cache
+G:\My Drive\Methode Projects\MA-Visual-App\PC App\obj\Debug\PC App.csproj.CoreCompileInputs.cache
+G:\My Drive\Methode Projects\MA-Visual-App\PC App\obj\Debug\PC App.exe
+G:\My Drive\Methode Projects\MA-Visual-App\PC App\obj\Debug\PC App.pdb

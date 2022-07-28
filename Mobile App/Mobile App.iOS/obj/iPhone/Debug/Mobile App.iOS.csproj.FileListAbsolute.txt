@@ -1,0 +1,63 @@
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\Mobile App.iOS.exe
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\Mobile App.iOS.pdb
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\Mobile App.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\bin\iPhone\Debug\Mobile App.pdb
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\obj\iPhone\Debug\optimized\
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\obj\iPhone\Debug\Mobile App.iOS.csproj.AssemblyReference.cache
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\obj\iPhone\Debug\Mobile App.iOS.csproj.CoreCompileInputs.cache
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\obj\iPhone\Debug\Mobile App.iOS.csproj.CopyComplete
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\obj\iPhone\Debug\Mobile App.iOS.exe
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App.iOS\obj\iPhone\Debug\Mobile App.iOS.pdb

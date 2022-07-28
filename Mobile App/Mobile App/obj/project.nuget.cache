@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hEGZCPgsHgUt4mEURNYEvIPaAwgixLeoMK7EzxibDqmc2F1iEWDBReNiCm+rHLDMi5lP93/J1d7+q+ZrbuifKQ==",
+  "success": true,
+  "projectFilePath": "D:\\Methode Projects\\MA-Visual-App\\Mobile App\\Mobile App\\Mobile App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karl Spiteri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Karl Spiteri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Karl Spiteri\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Karl Spiteri\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Karl Spiteri\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

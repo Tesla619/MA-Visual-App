@@ -1,0 +1,18 @@
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\bin\Debug\netstandard2.0\Mobile App.deps.json
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\bin\Debug\netstandard2.0\Mobile App.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\bin\Debug\netstandard2.0\Mobile App.pdb
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\Mobile App.csproj.AssemblyReference.cache
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\Mobile App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\Mobile App.AssemblyInfoInputs.cache
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\Mobile App.AssemblyInfo.cs
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\Mobile App.csproj.CoreCompileInputs.cache
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\Mobile App.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\refint\Mobile App.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\Mobile App.pdb
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\ref\Mobile App.dll
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\Views\AboutPage .xaml.g.cs
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\Views\EntryPage.xaml.g.cs
