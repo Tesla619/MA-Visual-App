@@ -15,4 +15,5 @@ D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0
 D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\ref\Mobile App.dll
 D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
 D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\Views\AboutPage .xaml.g.cs
-D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\Views\EntryPage.xaml.g.cs
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\Views\AddEntryPage.xaml.g.cs
+D:\Methode Projects\MA-Visual-App\Mobile App\Mobile App\obj\Debug\netstandard2.0\Views\AddReportPage.xaml.g.cs

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mobile_App.Views.AddReportPage"
+             Title="Add Warranty Report"
+             BackgroundColor="#121212">
+
+    <!-- Layout children vertically -->
+    <StackLayout Margin="20">
+        <Editor Placeholder="Enter Warranty Report Number"
+                Text="{Binding Text}"
+                HeightRequest="50" />
+        <!-- Layout children in two columns -->
+        <Grid ColumnDefinitions="*,*">
+            <Button Grid.Column="4"
+                    Text="+"
+                    Clicked="AddEntry" />
+            <!--<Button Grid.Column="0"
+                    Text="Del"
+                    Clicked="OnDeleteButtonClicked"/>-->
+        </Grid>
+    </StackLayout>
+
+    <!--<ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add"
+                     Clicked="OnAddClicked" />
+    </ContentPage.ToolbarItems>-->
+</ContentPage>

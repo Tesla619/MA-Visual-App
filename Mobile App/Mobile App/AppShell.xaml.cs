@@ -8,7 +8,8 @@ namespace Mobile_App
         public AppShell()
         {
             InitializeComponent();
-            Routing.RegisterRoute(nameof(EntryPage), typeof(EntryPage));
+            Routing.RegisterRoute(nameof(AddReportPage), typeof(AddReportPage));
+            Routing.RegisterRoute(nameof(AddEntryPage), typeof(AddEntryPage));
         }
     }
 }

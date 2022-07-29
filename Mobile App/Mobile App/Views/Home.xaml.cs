@@ -41,17 +41,17 @@ namespace Mobile_App.Views
 
         async void OnAddClicked(object sender, EventArgs e)
         {
-            // Navigate to the NoteEntryPage, without passing any data.
-            await Shell.Current.GoToAsync(nameof(EntryPage));
+            // Navigate to the AddReportPage Page, without passing any data.
+            await Shell.Current.GoToAsync(nameof(AddReportPage));
         }
 
         async void OnSelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             if (e.CurrentSelection != null)
             {
-                // Navigate to the NoteEntryPage, passing the filename as a query parameter.
+                // Navigate to the AddReportPage Page, passing the filename as a query parameter.
                 Note note = (Note)e.CurrentSelection.FirstOrDefault();
-                await Shell.Current.GoToAsync($"{nameof(EntryPage)}?{nameof(EntryPage.ItemId)}={note.Filename}");
+                await Shell.Current.GoToAsync($"{nameof(AddReportPage)}?{nameof(AddReportPage.ItemId)}={note.Filename}");
             }
         }
     }

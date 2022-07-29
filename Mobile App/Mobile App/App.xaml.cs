@@ -12,7 +12,7 @@ namespace Mobile_App
         {
             InitializeComponent();
             FolderPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData));
-            MainPage = new AppShell();
+            MainPage = new AppShell();              
         }
 
         protected override void OnStart()

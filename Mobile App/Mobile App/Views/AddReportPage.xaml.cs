@@ -6,7 +6,7 @@ using Xamarin.Forms;
 namespace Mobile_App.Views
 {
     [QueryProperty(nameof(ItemId), nameof(ItemId))]
-    public partial class EntryPage : ContentPage
+    public partial class AddReportPage : ContentPage
     {
         public string ItemId
         {
@@ -16,7 +16,7 @@ namespace Mobile_App.Views
             }
         }
 
-        public EntryPage()
+        public AddReportPage()
         {
             InitializeComponent();
 
@@ -43,7 +43,7 @@ namespace Mobile_App.Views
             }
         }
 
-        async void OnSaveButtonClicked(object sender, EventArgs e)
+        async void OnStartButtonClicked(object sender, EventArgs e)
         {
             var note = (Note)BindingContext;
 
@@ -75,6 +75,18 @@ namespace Mobile_App.Views
 
             // Navigate backwards
             await Shell.Current.GoToAsync("..");
+        }
+
+        //async void OnAddClicked(object sender, EventArgs e)
+        //{
+        //    // Navigate to the AddReportPage, without passing any data.
+        //    await Shell.Current.GoToAsync(nameof(AddReportPage));
+        //}
+
+        async void AddEntry(object sender, EventArgs e)
+        {
+            // Navigate to the AddReportPage Page, without passing any data.
+            await Shell.Current.GoToAsync(nameof(AddEntryPage));
         }
     }
 }

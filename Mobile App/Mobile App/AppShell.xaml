@@ -6,7 +6,7 @@
     <!-- Display a bottom tab bar containing two tabs -->
     <TabBar>
         <ShellContent Title="Home"
-                      Icon="icon_feed.png"
+                      Icon="Visual Icon.png"
                       ContentTemplate="{DataTemplate views:Home}" />
         <ShellContent Title="About"
                       Icon="icon_about.png"
